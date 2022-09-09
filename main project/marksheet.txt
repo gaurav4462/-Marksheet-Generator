@@ -1,0 +1,24 @@
+   RAJASTHAN TECHNICAL UNIVERSITY KOTA
+
+Roll No.       : YGJK
+Name           : KJHASF
+Father's Name  : GH
+Mother's Name  : HGF
+Branch         : HGFGH
+                                
+SR NO. Course   Totle   Mark  Grade
+ 1.    DBMS      100     100    AA
+ 2.    TOC       100     100    AA
+ 3.    COA       100     100    AA
+ 4.    Physics   100     100    AA
+ 5.    Chemistry 100     100    AA
+
+Grand Totle      :  500
+Totle Grade      :  AA
+Totle Percentage :  100.0%
+
+Year Of Exam     No. Of Subject
+  May 2022          6  
+
+Result Declared   Prof. Dhindra mathur
+  KJLH  	Controller Of Examination
